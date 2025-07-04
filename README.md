@@ -13,9 +13,14 @@ A full-stack CRUD web application for managing property listings, built with Nod
 
 ## 📸 Screenshots
 
-| Index Page | Show Listing | Create New |
-|------------|--------------|------------|
-| *(Add screenshots here)* | *(Add screenshots here)* | *(Add screenshots here)* |
+![alt text](image.png)
+<br>
+![alt text](image-1.png)
+<br>
+![alt text](image-2.png)
+<br>
+
+
 
 ## 🛠️ Tech Stack
 
