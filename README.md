@@ -31,6 +31,7 @@ A full-stack CRUD web application for managing property listings, built with Nod
 
 ## 🏗️ Project Structure
 
+<pre> ``` 
 BookMyStay/
 ├── init/
 │   ├── data.js
@@ -62,9 +63,10 @@ BookMyStay/
 ├── README.md
 |└── schema.js
 └── .gitignore   
+``` </pre>
 
 
-
+***
 
 ## ✨ Getting Started
 
