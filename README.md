@@ -13,7 +13,7 @@ A full-stack CRUD web application for managing property listings, built with Nod
 
 ## 📸 Screenshots
 
-![alt text](image.png)
+![alt text](image-3.png)
 <br>
 ![alt text](image-1.png)
 <br>
