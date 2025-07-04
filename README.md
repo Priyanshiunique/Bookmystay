@@ -64,7 +64,7 @@ BookMyStay/
 ## ✨ Getting Started
 
 1. **Clone the repository:**
-    - git clone https://github.com/yourusername/BookMyStay.git
+    - git clone https://github.com/Priyanshiunique/BookMyStay.git
     - cd Bookmystay
 
 
